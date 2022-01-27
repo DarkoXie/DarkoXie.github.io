@@ -62,13 +62,13 @@
 </p>
 <p> Lecture 9:<a href="https://darkoxie.github.io/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E5%92%8C%E6%B3%B0%E5%8B%92%E5%85%AC%E5%BC%8F%E8%AE%B2%E4%B9%89.pdf"> L'Hospital's rule and Taylor's expansion(洛必达法则和泰勒公式)</a>
 </p>
-<p> Lecture 10:<a href="https://darkoxie.github.io/%E8%BF%9E%E7%BB%AD%E5%87%BD%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in derivative(函数性质和作图)</a>
+<p> Lecture 10:<a href="https://darkoxie.github.io/%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8%E4%B8%8E%E4%BD%9C%E5%9B%BE%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in derivative(函数性质和作图)</a>
 </p>
 <p> Lecture 11:<a href="https://darkoxie.github.io/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E8%AE%B2%E4%B9%89.pdf"> Analytic geometry (解析几何)</a>
 </p>
 <p> Lecture 12:<a href="https://darkoxie.github.io/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E5%AD%A6%E8%AE%B2%E4%B9%89.pdf"> Multivariable differential calculus(多元函数微分学)</a>
 </p>
-<p> Lecture 13:<a href="https://darkoxie.github.io/%E5%AE%9A%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in multivariable differential calculus(多元函数微分学的应用)</a>
+<p> Lecture 13:<a href="https://darkoxie.github.io/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E5%AD%A6%E7%9A%84%E5%BA%94%E7%94%A8%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in multivariable differential calculus(多元函数微分学的应用)</a>
 </p>
 <h2> Advanced Mathemtics B, Volume 2 (高等数学B2)
 </h2>
