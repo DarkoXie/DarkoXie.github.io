@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Yantong XIE's Homepage
@@ -16,7 +15,6 @@
 <p> Office Location: Room 105, Building 21
 </p>
 <p> Email:darkoxie at pku dot edu dot cn 
-</body>
 <h1> Breif CV
 </h1>
 <h2> Education
@@ -34,4 +32,6 @@
 </h3>
 <h1> Notes in Advanced Mathematics B
 </h1>
+ 
+</body>
 </html>
