@@ -40,8 +40,11 @@
 </h2>
 <p> J Hu, J-G Liu, Y Xie, Z Zhou, <a href="https://www.sciencedirect.com/science/article/pii/S0021999121000905?via%3Dihub"> A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration</a>, published on JCP.
 </p>
-<h1> Notes in Advanced Mathematics B
+<h1> Notes
 </h1>
- 
+<h2> Advanced Mathemtics B, Volume 1 (高等数学B1)
+</h2>
+<h2> Advanced Mathemtics B, Volume 2 (高等数学B2)
+</h2>
 </body>
 </html>
