@@ -19,7 +19,7 @@
 </p>
 <p> B.S. in Computational Mathematics, 2015-2019, at Peking University.
 </p>
-<p> Ph.D. candidate in Mathematics, 2015-2019, at Peking University. Advisor: Prf. Zhennan ZHOU.
+<p> Ph.D. candidate in Mathematics, 2019-NOW, at Peking University. Advisor: Prf. Zhennan ZHOU.
 </p>
 <h2> Research interest
 <h3> Semiclassical Schrödinger Equations: Analysis and computations
