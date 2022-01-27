@@ -15,7 +15,7 @@
 </h1>
 <h2> Education
 </h2>
-<p> Middle school, 2009-2015, at The Experimental High School Attached to Beijing Normal University
+<p> Middle school, 2009-2015, at the Experimental High School Attached to Beijing Normal University
 </p>
 <p> B.S. in Computational Mathematics, 2015-2019, at Peking University.
 </p>
@@ -58,15 +58,15 @@
 </p>
 <p> Lecture 7:<a href="https://darkoxie.github.io/%E5%AE%9A%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Definite integral(定积分)</a>
 </p>
-<p> Lecture 8:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Differential mean value theorem(微分中值定理)</a>
+<p> Lecture 8:<a href="https://darkoxie.github.io/%E5%BE%AE%E5%88%86%E4%B8%AD%E5%80%BC%E5%AE%9A%E7%90%86%E8%AE%B2%E4%B9%89.pdf"> Differential mean value theorem(微分中值定理)</a>
 </p>
-<p> Lecture 9:<a href="https://darkoxie.github.io/%E5%87%BD%E6%95%B0%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> L'Hospital's rule and Taylor's expansion(洛必达法则和泰勒公式)</a>
+<p> Lecture 9:<a href="https://darkoxie.github.io/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E5%92%8C%E6%B3%B0%E5%8B%92%E5%85%AC%E5%BC%8F%E8%AE%B2%E4%B9%89.pdf"> L'Hospital's rule and Taylor's expansion(洛必达法则和泰勒公式)</a>
 </p>
 <p> Lecture 10:<a href="https://darkoxie.github.io/%E8%BF%9E%E7%BB%AD%E5%87%BD%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in derivative(函数性质和作图)</a>
 </p>
-<p> Lecture 11:<a href="https://darkoxie.github.io/%E5%AF%BC%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Analytic geometry (解析几何)</a>
+<p> Lecture 11:<a href="https://darkoxie.github.io/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E8%AE%B2%E4%B9%89.pdf"> Analytic geometry (解析几何)</a>
 </p>
-<p> Lecture 12:<a href="https://darkoxie.github.io/%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Multivariable differential calculus(多元函数微分学)</a>
+<p> Lecture 12:<a href="https://darkoxie.github.io/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E5%AD%A6%E8%AE%B2%E4%B9%89.pdf"> Multivariable differential calculus(多元函数微分学)</a>
 </p>
 <p> Lecture 13:<a href="https://darkoxie.github.io/%E5%AE%9A%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in multivariable differential calculus(多元函数微分学的应用)</a>
 </p>
