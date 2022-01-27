@@ -44,6 +44,8 @@
 </h1>
 <h2> Advanced Mathemtics B, Volume 1 (高等数学B1)
 </h2>
+<p> Lecture 1:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Preparation(预备知识)</a>
+</p>
 <p> Lecture 2:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Sequence limit theory(序列极限)</a>
 </p>
 <p> Lecture 3:<a href="https://darkoxie.github.io/%E5%87%BD%E6%95%B0%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Function limit theory(函数极限)</a>
@@ -56,7 +58,47 @@
 </p>
 <p> Lecture 7:<a href="https://darkoxie.github.io/%E5%AE%9A%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Definite integral(定积分)</a>
 </p>
+<p> Lecture 8:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Differential mean value theorem(微分中值定理)</a>
+</p>
+<p> Lecture 9:<a href="https://darkoxie.github.io/%E5%87%BD%E6%95%B0%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> L'Hospital's rule and Taylor's expansion(洛必达法则和泰勒公式)</a>
+</p>
+<p> Lecture 10:<a href="https://darkoxie.github.io/%E8%BF%9E%E7%BB%AD%E5%87%BD%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in derivative(函数性质和作图)</a>
+</p>
+<p> Lecture 11:<a href="https://darkoxie.github.io/%E5%AF%BC%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Analytic geometry (解析几何)</a>
+</p>
+<p> Lecture 12:<a href="https://darkoxie.github.io/%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Multivariable differential calculus(多元函数微分学)</a>
+</p>
+<p> Lecture 13:<a href="https://darkoxie.github.io/%E5%AE%9A%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in multivariable differential calculus(多元函数微分学的应用)</a>
+</p>
 <h2> Advanced Mathemtics B, Volume 2 (高等数学B2)
 </h2>
+<p> Lecture 1: Review(复习)
+</p>
+<p> Lecture 2: Double integral(二重积分)</a>
+</p>
+<p> Lecture 3: Triple integral(三重积分)</a>
+</p>
+<p> Lecture 4: Advanced topics in multiple integral (二重积分和三重积分的应用)</a>
+</p>
+<p> Lecture 5: Curvilinear integral(曲线积分)</a>
+</p>
+<p> Lecture 6: Surface integral(曲面积分)</a>
+</p>
+<p> Lecture 7: Solutions to ODE(常微分方程的解法)</a>
+</p>
+<p> Lecture 8: Advanced topics in ODE(常微分方程一般理论)</a>
+</p>
+<p> Lecture 9: Sequence series(数项级数)</a>
+</p>
+<p> Lecture 10: Function series(函数项级数)</a>
+</p>
+<p> Lecture 11: Power series (幂级数)</a>
+</p>
+<p> Lecture 12: Improper integral(广义积分和瑕积分)</a>
+</p>
+<p> Lecture 13: Integral with parameters(含参变量积分)</a>
+</p>
+<p> Lecture 14: Fourier series(傅里叶级数)</a>
+</p>
 </body>
 </html>
