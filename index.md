@@ -44,7 +44,17 @@
 </h1>
 <h2> Advanced Mathemtics B, Volume 1 (高等数学B1)
 </h2>
-<p> <a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Sequence limit theory(序列极限)</a>
+<p> Lecture 2:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Sequence limit theory(序列极限)</a>
+</p>
+<p> Lecture 3:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Function limit theory(函数极限)</a>
+</p>
+<p> Lecture 4:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Continuous functions(连续函数)</a>
+</p>
+<p> Lecture 5:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Derivative and differential(导数)</a>
+</p>
+<p> Lecture 6:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Indefinite integral(不定积分)</a>
+</p>
+<p> Lecture 7:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Definite integral(定积分)</a>
 </p>
 <h2> Advanced Mathemtics B, Volume 2 (高等数学B2)
 </h2>
