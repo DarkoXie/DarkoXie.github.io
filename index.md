@@ -1,8 +1,4 @@
 <html>
-<head>
-<title>Yantong XIE's Homepage
-</title>
-</head>
 <body>
 <h1> Contact Information
 </h1>
@@ -30,6 +26,20 @@
 </h3>
 <h3> Computation of Leak-and-fire model in neuroscience
 </h3>
+<h1> Research Paper
+</h1>
+<h2> 2021
+</h2>
+<p> Y Xie, Z Zhou, <a href="https://arxiv.org/abs/2112.05405"> Frozen Gaussian Sampling: A Mesh-free Monte Carlo Method For Approximating Semiclassical Schrödinger Equations</a>, preprint.
+</p>
+<h2> 2020
+</h2>
+<p> J-G Liu, Z Wang, Y Xie, Y Zhang, Z Zhou, <a href="https://arxiv.org/abs/2102.07891"> Investigating the integrate and fire model as the limit of a random discharge model: a stochastic analysis perspective</a>, published on Mathematical Neuroscience and Applications (MNA).
+</p>
+<h2> 2019
+</h2>
+<p> J Hu, J-G Liu, Y Xie, Z Zhou, <a href="https://www.sciencedirect.com/science/article/pii/S0021999121000905?via%3Dihub"> A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration</a>, published on JCP.
+</p>
 <h1> Notes in Advanced Mathematics B
 </h1>
  
