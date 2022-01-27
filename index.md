@@ -2,7 +2,7 @@
 <body>
 <h1> Contact Information
 </h1>
-<p> Yantong XIE, Phd candidate
+<p> Yantong XIE, Ph.D. candidate
 </p>
 <p> School of Mathematical Science, Peking Univrtsity
 </p>
@@ -18,6 +18,8 @@
 <p> Middle school, 2009-2015, at the Experimental High School Attached to Beijing Normal University
 </p>
 <p> B.S. in Computational Mathematics, 2015-2019, at Peking University.
+</p>
+<p> Ph.D. candidate in Mathematics, 2015-2019, at Peking University. Advisor: Prf. Zhennan ZHOU.
 </p>
 <h2> Research interest
 <h3> Semiclassical Schrödinger Equations: Analysis and computations
