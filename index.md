@@ -78,7 +78,7 @@
 </p>
 <p> Lecture 2:<a href="https://darkoxie.github.io/%E4%BA%8C%E9%87%8D%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Double integral(二重积分)</a>
 </p>
-<p> Lecture 3: Triple integral(三重积分)</a>
+<p> Lecture 3:<a href="https://darkoxie.github.io/%E4%B8%89%E9%87%8D%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Triple integral(三重积分)</a>
 </p>
 <p> Lecture 4: Advanced topics in multiple integral (二重积分和三重积分的应用)</a>
 </p>
