@@ -80,7 +80,7 @@
 </p>
 <p> Lecture 3:<a href="https://darkoxie.github.io/%E4%B8%89%E9%87%8D%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Triple integral(三重积分)</a>
 </p>
-<p> Lecture 4: Advanced topics in multiple integral (二重积分和三重积分的应用)</a>
+<p> Lecture 4:<a hred="https://darkoxie.github.io/%E9%87%8D%E7%A7%AF%E5%88%86%E5%BA%94%E7%94%A8%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in multiple integral (重积分的应用)</a>
 </p>
 <p> Lecture 5: Curvilinear integral(曲线积分)</a>
 </p>
