@@ -74,7 +74,7 @@
 </p>
 <h2> Advanced Mathemtics B, Volume 2 (高等数学B2)
 </h2>
-<p> Lecture 1: Review(复习)
+<p> Lecture 1: Review
 </p>
 <p> Lecture 2:<a href="https://darkoxie.github.io/%E4%BA%8C%E9%87%8D%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Double integral(二重积分)</a>
 </p>
