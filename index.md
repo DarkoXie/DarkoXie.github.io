@@ -86,7 +86,7 @@
 </p>
 <p> Lecture 6:<a href="https://darkoxie.github.io/%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Surface integral(曲面积分)</a>
 </p>
-<p> Lecture 7: Solutions to ODE(常微分方程的解法)</a>
+<p> Lecture 7:<a href="https://darkoxie.github.io/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3%E6%B3%95%E8%AE%B2%E4%B9%89.pdf"> Solutions to ODE(常微分方程的解法)</a>
 </p>
 <p> Lecture 8: Advanced topics in ODE(常微分方程一般理论)</a>
 </p>
