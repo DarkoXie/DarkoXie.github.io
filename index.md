@@ -90,7 +90,7 @@
 </p>
 <p> Lecture 8:<a href="https://darkoxie.github.io/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E7%90%86%E8%AE%BA%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in ODE(常微分方程一般理论)</a>
 </p>
-<p> Lecture 9: Sequence series(数项级数)</a>
+<p> Lecture 9:<a href="https://darkoxie.github.io/%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Sequence series(数项级数)</a>
 </p>
 <p> Lecture 10: Function series(函数项级数)</a>
 </p>
