@@ -94,7 +94,7 @@
 </p>
 <p> Lecture 10:<a href="https://darkoxie.github.io/%E5%87%BD%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0%E8%AE%B2%E4%B9%89.pdf">  Function series(函数项级数)</a>
 </p>
-<p> Lecture 11: Power series (幂级数)</a>
+<p> Lecture 11:<a href="https://darkoxie.github.io/%E5%B9%82%E7%BA%A7%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Power series (幂级数)</a>
 </p>
 <p> Lecture 12: Improper integral(广义积分和瑕积分)</a>
 </p>
