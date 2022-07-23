@@ -4,11 +4,11 @@
 </h1>
 <p> Yantong XIE, Ph.D. candidate
 </p>
-<p> School of Mathematical Science, Peking Univrtsity
+<p> School of Mathematical Science, Peking Univertsity
 </p>
 <p> No. 5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871 
 </p>
-<p> Office Location: Room 105, Building 21
+<p> Office Location: Room 84106, Building JIAYIBING, Peking University
 </p>
 <p> Email:darkoxie at pku dot edu dot cn 
 <h1> Breif CV
@@ -19,7 +19,7 @@
 </p>
 <p> B.S. in Computational Mathematics, 2015-2019, at Peking University.
 </p>
-<p> Ph.D. candidate in Mathematics, 2019-NOW, at Peking University. Advisor: Prf. Zhennan ZHOU.
+<p> Ph.D. candidate in Mathematics, 2019-NOW, at Peking University. Advisor: Prof. Zhennan ZHOU.
 </p>
 <h2> Research interest
 <h3> Semiclassical Schrödinger Equations: Analysis and computations
@@ -28,7 +28,7 @@
 </h3>
 <h3> Computation of Leak-and-fire model in neuroscience
 </h3>
-<h1> Research Paper
+<h1> Research Papers
 </h1>
 <h2> 2021
 </h2>
@@ -40,12 +40,13 @@
 </p>
 <h2> 2019
 </h2>
-<p> J Hu, J-G Liu, Y Xie, Z Zhou, <a href="https://www.sciencedirect.com/science/article/pii/S0021999121000905?via%3Dihub"> A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration</a>, published on JCP.
+<p> J Hu, J-G Liu, Y Xie, Z Zhou, <a href="https://www.sciencedirect.com/science/article/pii/S0021999121000905?via%3Dihub"> A structure preserving numerical scheme for Fokker-Planck equations of neuron networks: numerical analysis and exploration</a>, published on JCP. 
 </p>
 <h1> Notes
 </h1>
 <h2> Advanced Mathemtics B, Volume 1 (高等数学B1)
 </h2>
+<p> Thanks for choosing my Advanced Mathemtics lecture notes. If you want to read my notes, make sure you have read <a href="https://darkoxie.github.io/前言.docx"> this</a>.
 <p> Lecture 1:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Preparation(预备知识)</a>
 </p>
 <p> Lecture 2:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Sequence limit theory(序列极限)</a>
