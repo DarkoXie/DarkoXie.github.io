@@ -44,9 +44,9 @@
 </p>
 <h1> Notes
 </h1>
-<h2> Advanced Mathemtics B, Volume 1 (高等数学B1)
+<h2> Advanced Mathematics B, Volume 1 (高等数学B1)
 </h2>
-<p> Thanks for choosing my Advanced Mathemtics lecture notes. If you want to read my notes, make sure you have read <a href="https://darkoxie.github.io/前言.docx"> this</a>.
+<p> Thanks for choosing my Advanced Mathematics lecture notes. If you want to read my notes, make sure you have read <a href="https://darkoxie.github.io/前言.docx"> this</a>.
 <p> Lecture 1:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Preparation(预备知识)</a>
 </p>
 <p> Lecture 2:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Sequence limit theory(序列极限)</a>
@@ -73,7 +73,7 @@
 </p>
 <p> Lecture 13:<a href="https://darkoxie.github.io/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E5%AD%A6%E7%9A%84%E5%BA%94%E7%94%A8%E8%AE%B2%E4%B9%89.pdf"> Advanced topics in multivariable differential calculus(多元函数微分学的应用)</a>
 </p>
-<h2> Advanced Mathemtics B, Volume 2 (高等数学B2)
+<h2> Advanced Mathematics B, Volume 2 (高等数学B2)
 </h2>
 <p> Lecture 1: Review
 </p>
