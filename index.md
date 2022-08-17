@@ -99,7 +99,7 @@
 </p>
 <p> Lecture 12:<a href="https://darkoxie.github.io/%E6%97%A0%E7%A9%B7%E7%A7%AF%E5%88%86%E5%92%8C%E7%91%95%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Improper integral(无穷积分和瑕积分)</a>
 </p>
-<p> Lecture 13:<a href="https://darkoxie.github.io/%E5%90%AB%E5%8F%82%E5%8F%98%E9%87%8F%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf">(含参变量积分)</a>
+<p> Lecture 13:<a href="https://darkoxie.github.io/%E5%90%AB%E5%8F%82%E5%8F%98%E9%87%8F%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Integrals with parameters(含参变量积分)</a>
 </p>
 <p> Lecture 14: Fourier series(傅里叶级数)</a>
 </p>
