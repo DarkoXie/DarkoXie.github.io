@@ -101,7 +101,7 @@
 </p>
 <p> Lecture 13:<a href="https://darkoxie.github.io/%E5%90%AB%E5%8F%82%E5%8F%98%E9%87%8F%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf"> Integrals with parameters(含参变量积分)</a>
 </p>
-<p> Lecture 14: Fourier series(傅里叶级数)</a>
+<p> Lecture 14:<a href="https://darkoxie.github.io/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E8%AE%B2%E4%B9%89.pdf"> Fourier series(傅里叶级数)</a>
 </p>
 </body>
 </html>
