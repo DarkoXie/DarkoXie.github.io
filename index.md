@@ -46,7 +46,7 @@
 </h1>
 <h2> Advanced Mathematics B, Volume 1 (高等数学B1)
 </h2>
-<p> Thanks for choosing my Advanced Mathematics lecture notes. If you want to read my notes, make sure you have read <a href="https://darkoxie.github.io/前言.docx"> this</a>.
+<p> Thanks for choosing my Advanced Mathematics lecture notes. If you want to read my notes, make sure you have read <a href="https://darkoxie.github.io/%E8%AE%B2%E4%B9%89%E8%AF%B4%E6%98%8E.pdf"> this</a>.
 <p> Lecture 1:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Preparation(预备知识)</a>
 </p>
 <p> Lecture 2:<a href="https://darkoxie.github.io/%E5%BA%8F%E5%88%97%E6%9E%81%E9%99%90%E8%AE%B2%E4%B9%89.pdf"> Sequence limit theory(序列极限)</a>
